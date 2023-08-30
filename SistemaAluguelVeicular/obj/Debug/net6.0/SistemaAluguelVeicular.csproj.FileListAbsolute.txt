@@ -1,0 +1,15 @@
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\bin\Debug\net6.0\SistemaAluguelVeicular.exe
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\bin\Debug\net6.0\SistemaAluguelVeicular.deps.json
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\bin\Debug\net6.0\SistemaAluguelVeicular.runtimeconfig.json
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\bin\Debug\net6.0\SistemaAluguelVeicular.dll
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\bin\Debug\net6.0\SistemaAluguelVeicular.pdb
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.csproj.AssemblyReference.cache
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.AssemblyInfoInputs.cache
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.AssemblyInfo.cs
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.csproj.CoreCompileInputs.cache
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.dll
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\refint\SistemaAluguelVeicular.dll
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.pdb
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\SistemaAluguelVeicular.genruntimeconfig.cache
+D:\Estudo C\Projetos\SistemaAluguelVeicular\SistemaAluguelVeicular\SistemaAluguelVeicular\obj\Debug\net6.0\ref\SistemaAluguelVeicular.dll
